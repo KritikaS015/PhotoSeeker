@@ -1,4 +1,4 @@
-<h1 align="center">Weather Application</h1>
+<h1 align="center">PhotoSeeker</h1>
 
 PhotoSeeker web application with HTML, CSS and JavaScript
 
