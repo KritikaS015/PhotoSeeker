@@ -47,23 +47,3 @@ formEl.addEventListener("submit", (event) => {
 showmore.addEventListener("click", () => {
   searchImages();
 });
-
-// let btn=document.querySelector(".fa-solid fa-toggle-on");
-
-// let currmode="light";
-
-// btn.addEventListener("click",() => {
-
-//    if(currmode==="light"){
-//     console.log(currmode="dark");
-//     // document.querySelector("body").style.backgroundColor="black";
-//     document.querySelector("body").classList.add("dark");
-//     document.querySelector("body").classList.remove("white");
-
-//     }else{
-//         console.log(currmode="light");
-//         // document.querySelector("body").style.backgroundColor="white";
-//         document.querySelector("body").classList.add("white");
-//         document.querySelector("body").classList.remove("dark");
-//    }
-// });
